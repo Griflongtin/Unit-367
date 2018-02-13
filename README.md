@@ -27,6 +27,7 @@ _For support or any question please E-mail me at GrifLongtin@live.com_
 
   * Atom
   * HTML
+  * CSS
   
 ### License
 
